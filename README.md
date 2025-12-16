@@ -14,7 +14,7 @@ CandyFrog adalah game sederhana dan seru yang dibuat menggunakan Greenfoot. Dala
 
 2. Clone repository ini:
    ```bash
-   git clone https://github.com/username/forest-defender.git
+   git clone https://github.com/dhnnnn/CandyFrog.git
   3. Buka folder proyek di Greenfoot.
   4. Klik tombol **Run** untuk mulai bermain. 🕹️
 
